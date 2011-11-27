@@ -42,7 +42,7 @@ if($wp_version >= '2.6.0') {
 $options_page = get_option('siteurl') . '/wp-admin/admin.php?page=wp-lightbox-2/options.php';
 /* Adds our admin options under "Options" */
 function lightbox_2_options_page() {
-	add_options_page('Lightbox Options', 'Lightbox 2', 10, 'wp-lightbox-2/options.php');
+	add_options_page('Lightbox Options', 'WP Lightbox 2', 10, 'wp-lightbox-2/options.php');
 }
 
 function lightbox_styles() {
