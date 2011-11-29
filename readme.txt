@@ -25,11 +25,24 @@ To do a new installation of the plugin, please follow these steps
 5. Optionally, go to the Options page and select a new Lightbox colour scheme.
 
 
+
 == Frequently Asked Questions ==
 
-You can Check Screen Shots on my website :<br />
-[WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
+Question: Why doesn’t plugin is working for me?
+
+Answers: Check the following reasons:
+You have changed the plugin folder’s name to something other than “lightbox-2?.
+
+The problem is with your WordPress theme, mangling image display properties. Use another theme, that doesn’t interfere with posted images.
+
+You have other plugins that conflict with Lightbox
+
+Disable your other plugins and see if that helps. If it does, re-enable each plugin, one at a time to see which one is causing the conflict.
+
+Question: It doesn’t work properly in Browser X (Explorer 6, 7, etc)?
+
+Answer: Yes it does. The problem is with your WordPress theme, mangling image display properties. Use another theme, or change your theme’s Cascading Style Sheets (CSS).
 
 == Screenshots ==
-You can Check Screen Shots on my website :<br />
-[WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
+screenshot-1.png
+screenshot-2.png
