@@ -44,5 +44,5 @@ Question: It doesn’t work properly in Browser X (Explorer 6, 7, etc)?
 Answer: Yes it does. The problem is with your WordPress theme, mangling image display properties. Use another theme, or change your theme’s Cascading Style Sheets (CSS).
 
 == Screenshots ==
-screenshot-1.png
-screenshot-2.png
+1. screenshot-1.png
+2. screenshot-2.png
