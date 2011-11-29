@@ -28,20 +28,20 @@ To do a new installation of the plugin, please follow these steps
 
 == Frequently Asked Questions ==
 
-Question: Why doesn’t plugin is working for me?
+Question: Why does not plugin is working for me?
 
 Answers: Check the following reasons:
-You have changed the plugin folder’s name to something other than “lightbox-2?.
+You have changed the plugin folder`s name to something other than wp-lightbox-2.
 
-The problem is with your WordPress theme, mangling image display properties. Use another theme, that doesn’t interfere with posted images.
+The problem is with your WordPress theme, mangling image display properties. Use another theme, that does not interfere with posted images.
 
 You have other plugins that conflict with Lightbox
 
 Disable your other plugins and see if that helps. If it does, re-enable each plugin, one at a time to see which one is causing the conflict.
 
-Question: It doesn’t work properly in Browser X (Explorer 6, 7, etc)?
+Question: It does not work properly in Browser X (Explorer 6, 7, etc)?
 
-Answer: Yes it does. The problem is with your WordPress theme, mangling image display properties. Use another theme, or change your theme’s Cascading Style Sheets (CSS).
+Answer: Yes it does. The problem is with your WordPress theme, mangling image display properties. Use another theme, or change your theme`s Cascading Style Sheets (CSS).
 
 == Screenshots ==
 1. screenshot-1.png
