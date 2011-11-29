@@ -8,16 +8,12 @@ Stable tag: 3.0.0
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
-<br />
-[Author Site](http://onlinewebapplication.com)|
-[Plugin Home Page](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)
-<br />
-<br />
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
-Used to overlay images on the current page. Extension of Lightbox 2 which features 'auto-lightboxing' of image links, courtesy of Michael Tyson ( http://atastypixel.com ) and Lightbox2 (http://www.huddletogether.com/projects/lightbox2/).
+Used to overlay images on the current page. Extension of Lightbox 2 which features 'auto-lightboxing' of image links, courtesy of Michael Tyson and Lightbox2.
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
+[Plugin Home Page](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)
 == Installation ==
 
 To do a new installation of the plugin, please follow these steps
