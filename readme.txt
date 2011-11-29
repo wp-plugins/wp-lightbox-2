@@ -2,7 +2,7 @@
 Contributors: Pankaj Jha
 Plugin Site: http://onlinewebapplication.com/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin
-Requires at least: 1.5
+Requires at least: 2.8
 Tested up to: 3.2.1
 Stable tag: 3.0.0
 
