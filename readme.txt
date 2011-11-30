@@ -14,12 +14,13 @@ Used to overlay images on the current page. Extension of Lightbox 2 which featur
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
 Feature:
-1) Works on all modern browsers
-2) Group related images in post and navigate through them with ease
-3) Backwards Compatibility
-4) No configuration required
-5) 5 Inbuilt theme
-6) Lightbox display of Gallery
+
+1. Works on all modern browsers.
+2. Group related images in post and navigate through them with ease.
+3. Backwards Compatibility.
+4. No configuration required.
+5. 5 Inbuilt theme.
+6. Lightbox display of Gallery.
 
 <br />
 [Author Site](http://onlinewebapplication.com)|
