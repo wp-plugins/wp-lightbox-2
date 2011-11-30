@@ -1,3 +1,8 @@
+// For original FULL CODE COMMENTS grab the original lightbox source: http://www.huddletogether.com/projects/lightbox2/releases/lightbox2.03.3.zip
+//	Lightbox v2.03.3 by Lokesh Dhakar
+//	http://huddletogether.com/projects/lightbox2/
+//	Licensed under the Creative Commons Attribution 2.5 License
+// ----------------------------------------------------------------
 // -----------------------------------------------------------------------------------
 //	Configuration
 var overlayOpacity = 0.8;	// controls transparency of shadow overlay

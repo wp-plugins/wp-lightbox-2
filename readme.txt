@@ -13,7 +13,11 @@ Used to overlay images on the current page. Extension of Lightbox 2 which featur
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
-[Plugin Home Page](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)
+<br />
+[Author Site](http://onlinewebapplication.com)|
+[Plugin Home Page](http://onlinewebapplication.com/2011/10/wp-ajax-contact-form.html)
+<br />
+<br />
 == Installation ==
 
 To do a new installation of the plugin, please follow these steps
