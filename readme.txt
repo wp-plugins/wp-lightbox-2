@@ -28,7 +28,11 @@ Feature:
 <br />
 <br />
 == Installation ==
-
+<br />
+[Author Site](http://onlinewebapplication.com)|
+[Plugin Home Page](http://onlinewebapplication.com/2011/10/wp-ajax-contact-form.html)
+<br />
+<br />
 To do a new installation of the plugin, please follow these steps
 
 1. Download the zipped plugin file to your local machine.
@@ -40,7 +44,11 @@ To do a new installation of the plugin, please follow these steps
 
 
 == Frequently Asked Questions ==
-
+<br />
+[Author Site](http://onlinewebapplication.com)|
+[Plugin Home Page](http://onlinewebapplication.com/2011/10/wp-ajax-contact-form.html)
+<br />
+<br />
 Question: Why does not plugin is working for me?
 
 Answers: Check the following reasons:
@@ -57,5 +65,10 @@ Question: It does not work properly in Browser X (Explorer 6, 7, etc)?
 Answer: Yes it does. The problem is with your WordPress theme, mangling image display properties. Use another theme, or change your theme`s Cascading Style Sheets (CSS).
 
 == Screenshots ==
+<br />
+[Author Site](http://onlinewebapplication.com)|
+[Plugin Home Page](http://onlinewebapplication.com/2011/10/wp-ajax-contact-form.html)
+<br />
+<br />
 1. screenshot-1.png
 2. screenshot-2.png
