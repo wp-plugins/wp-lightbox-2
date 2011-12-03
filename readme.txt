@@ -70,5 +70,3 @@ Answer: Yes it does. The problem is with your WordPress theme, mangling image di
 [Plugin Home Page](http://onlinewebapplication.com/2011/10/wp-ajax-contact-form.html)
 <br />
 <br />
-1. screenshot-1.png
-2. screenshot-2.png
