@@ -22,12 +22,12 @@
 **/
 
  
-var overlayOpacity = 0.8;	// controls transparency of shadow overlay
-var animate = true;			// toggles resizing animations
-var resizeSpeed = 9;		// controls the speed of the image resizing animations (1=slowest and 10=fastest)
-var borderSize = 10;		//if you adjust the padding in the CSS, you will need to update this variable
-// -----------------------------------------------------------------------------------
-//	Global Variables
+var overlayOpacity = 0.8;	
+var animate = true;			
+var resizeSpeed = 9;		
+var borderSize = 10;		
+/* --------------Global variable declaration---------------------*/
+
 var imageArray = new Array;
 var activeImage;
 if(animate == true){
@@ -39,8 +39,7 @@ if(animate == true){
 	overlayDuration = 0;
 	resizeDuration = 0;
 }
-// -----------------------------------------------------------------------------------
-//	Additional methods for Element
+/* -------------Aditional methods----------------------*/
 Object.extend(Element, {
 	getWidth: function(element) {
 	   	element = $(element);
@@ -75,10 +74,7 @@ Object.extend(Element, {
 		element.innerHTML = content;
 	}
 });
-// -----------------------------------------------------------------------------------
-//	Extending built-in Array object
-//	- array.removeDuplicates()
-//	- array.empty()
+/* -----------------------------------*/
 Array.prototype.removeDuplicates = function () {
     for(i = 0; i < this.length; i++){
         for(j = this.length-1; j>i; j--){        
@@ -88,19 +84,16 @@ Array.prototype.removeDuplicates = function () {
         }
     }
 }
-// -----------------------------------------------------------------------------------
+/* -----------------------------------*/
 Array.prototype.empty = function () {
 	for(i = 0; i <= this.length; i++){
 		this.shift();
 	}
 }
-// -----------------------------------------------------------------------------------
+/* -----------------------------------*/
 var Lightbox = Class.create();
 Lightbox.prototype = {
-	// initialize()
-	// Constructor runs on completion of the DOM loading. Calls updateImageList and then
-	// the function inserts html at the bottom of the page which is used to display the shadow 
-	// overlay and the image container.
+	
 	initialize: function() {	
 		
 		this.updateImageList();
@@ -124,9 +117,7 @@ Lightbox.prototype = {
 		var objOuterImageContainer = document.createElement("div");
 		objOuterImageContainer.setAttribute('id','stimuli_outerImageContainer');
 		objLightbox.appendChild(objOuterImageContainer);
-		// When Lightbox starts it will resize itself from 250 by 250 to the current image dimension.
-		// If animations are turned off, it will be hidden as to prevent a flicker of a
-		// white 250 by 250 box.
+	
 		if(animate){
 			Element.setWidth('stimuli_outerImageContainer', 250);
 			Element.setHeight('stimuli_outerImageContainer', 250);			
@@ -195,9 +186,6 @@ Lightbox.prototype = {
 		objBottomNavCloseLink.onclick = function() { myLightbox.end(); return false; }
 		objBottomNav.appendChild(objBottomNavCloseLink);
 	},
-	// updateImageList()
-	// Loops through anchor tags looking for 'lightbox' references and applies onclick
-	// events to appropriate links. You can rerun after dynamically adding images w/ajax.
 	updateImageList: function() {	
 		if (!document.getElementsByTagName){ return; }
 		var anchors = document.getElementsByTagName('a');
@@ -211,23 +199,21 @@ Lightbox.prototype = {
 				anchor.onclick = function () {myLightbox.start(this); return false;}
 			}
 		}
-		// loop through all area tags
-		// todo: combine anchor & area tag loops
+	
 		for (var i=0; i< areas.length; i++){
 			var area = areas[i];
 			var relAttribute = String(area.getAttribute('rel'));
-			// use the string.match() method to catch 'lightbox' references in the rel attribute
+			
 			if (area.getAttribute('href') && (relAttribute.toLowerCase().match('lightbox'))){
 				area.onclick = function () {myLightbox.start(this); return false;}
 			}
 		}
 	},
-	//	start()
-	//	Display overlay and lightbox. If image is part of a set, add siblings to imageArray.
+
 	start: function(imageLink) {	
 		hideSelectBoxes();
 		hideFlash();
-		// stretch overlay to fill page and fade in
+	
 		var arrayPageSize = getPageSize();
 		Element.setWidth('stimuli_overlay', arrayPageSize[0]);
 		Element.setHeight('stimuli_overlay', arrayPageSize[1]);
@@ -250,8 +236,7 @@ Lightbox.prototype = {
 			// add single image to imageArray
 			imageArray.push(new Array(imageLink.getAttribute('href'), stimuli_image_title));
 		} else {
-		// if image is part of a set... ie lightbox[someset]
-			// loop through anchors, find other images in set, and add them to imageArray
+	
 			for (var i=0; i<anchors.length; i++){
 				var anchor = anchors[i];
 				if (anchor.getAttribute('href') && (anchor.getAttribute('rel') == imageLink.getAttribute('rel'))){
@@ -278,8 +263,7 @@ Lightbox.prototype = {
 		Element.show('stimuli_lightbox');
 		this.changeImage(imageNum);
 	},
-	//	changeImage()
-	//	Hide most elements and preload image in preparation for resizing image container.
+
 	changeImage: function(imageNum) {	
 		activeImage = imageNum;	// update global var
 		// hide elements during transition
@@ -334,8 +318,7 @@ Lightbox.prototype = {
 		new Effect.Appear('stimuli_lightboxImage', { duration: resizeDuration, queue: 'end', afterFinish: function(){	myLightbox.updateDetails(); } });
 		this.preloadNeighborImages();
 	},
-	//	updateDetails()
-	//	Display caption, image number, and bottom nav.
+
 	updateDetails: function() {
 		// if caption is not null
 		if(imageArray[activeImage][1]){
@@ -411,8 +394,7 @@ Lightbox.prototype = {
 			}
 		}
 	},
-	//	preloadNeighborImages()
-	//	Preload previous and next images.
+	
 	preloadNeighborImages: function(){
 		if((imageArray.length - 1) > activeImage){
 			preloadNextImage = new Image();
@@ -432,8 +414,7 @@ Lightbox.prototype = {
 		showFlash();
 	}
 }
-// -----------------------------------------------------------------------------------
-// getPageScroll()
+
 function getPageScroll(){
 	var xScroll, yScroll;
 	if (self.pageYOffset) {
@@ -449,8 +430,7 @@ function getPageScroll(){
 	arrayPageScroll = new Array(xScroll,yScroll) 
 	return arrayPageScroll;
 }
-// -----------------------------------------------------------------------------------
-// getPageSize()
+/* -----------------------------------*/
 function getPageSize(){
 	var xScroll, yScroll;
 	if (window.innerHeight && window.scrollMaxY) {	
@@ -493,8 +473,7 @@ function getPageSize(){
 	arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight) 
 	return arrayPageSize;
 }
-// -----------------------------------------------------------------------------------
-// getKey(key)
+/* -----------------------------------*/
 function getKey(e){
 	if (e == null) { // ie
 		keycode = event.keyCode;
@@ -505,8 +484,7 @@ function getKey(e){
 	if(key == 'x'){
 	}
 }
-// -----------------------------------------------------------------------------------
-// listenKey()
+/* -----------------------------------*/
 function listenKey () {	document.onkeypress = getKey; }
 // ---------------------------------------------------
 function showSelectBoxes(){
@@ -515,14 +493,14 @@ function showSelectBoxes(){
 		selects[i].style.visibility = "visible";
 	}
 }
-// ---------------------------------------------------
+/* -----------------------------------*/
 function hideSelectBoxes(){
 	var selects = document.getElementsByTagName("select");
 	for (i = 0; i != selects.length; i++) {
 		selects[i].style.visibility = "hidden";
 	}
 }
-// ---------------------------------------------------
+/* -----------------------------------*/
 function showFlash(){
 	var flashObjects = document.getElementsByTagName("object");
 	for (i = 0; i < flashObjects.length; i++) {
@@ -533,7 +511,7 @@ function showFlash(){
 		flashEmbeds[i].style.visibility = "visible";
 	}
 }
-// ---------------------------------------------------
+/* -----------------------------------*/
 function hideFlash(){
 	var flashObjects = document.getElementsByTagName("object");
 	for (i = 0; i < flashObjects.length; i++) {
@@ -544,13 +522,13 @@ function hideFlash(){
 		flashEmbeds[i].style.visibility = "hidden";
 	}
 }
-// ---------------------------------------------------
+/* -----------------------------------*/
 function stimuli_pause(ms){
 	var date = new Date();
 	curDate = null;
 	do{var curDate = new Date();}
 	while( curDate - date < ms);
 }
-// ---------------------------------------------------
+/* -----------------------------------*/
 function initLightbox() { myLightbox = new Lightbox(); }
 Event.observe(window, 'load', initLightbox, false);
