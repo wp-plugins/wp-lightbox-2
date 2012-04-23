@@ -1,10 +1,27 @@
-// For original FULL CODE COMMENTS grab the original lightbox source: http://www.huddletogether.com/projects/lightbox2/releases/lightbox2.03.3.zip
-//	Lightbox v2.03.3 by Lokesh Dhakar
-//	http://huddletogether.com/projects/lightbox2/
-//	Licensed under the Creative Commons Attribution 2.5 License
-// ----------------------------------------------------------------
-// -----------------------------------------------------------------------------------
-//	Configuration
+/*
+ * Plugin Name: WP Lightbox 2
+ * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
+ * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
+ * Version:       2.0
+ * Author:        Pankaj Jha
+ * Author URI:    http://onlinewebapplication.com/
+ * License:       GNU General Public License, v2 (or newer)
+ * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * This program was modified from Ajax Contact Form plugin, version 1.0.0, 
+ * Copyright (C) 2011 Richard Gigs, released under the GNU General Public License.
+*/
+
 var overlayOpacity = 0.8;	// controls transparency of shadow overlay
 var animate = true;			// toggles resizing animations
 var resizeSpeed = 9;		// controls the speed of the image resizing animations (1=slowest and 10=fastest)
