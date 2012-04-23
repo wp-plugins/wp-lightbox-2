@@ -1,4 +1,4 @@
-/*
+/**
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
@@ -12,16 +12,16 @@
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
  * (at your option) any later version.
- * 
- * This program is distributed in the hope that it will be useful,
+ * Based on Lightbox 2 by Lokesh Dhakar (http://www.huddletogether.com/projects/lightbox2/)
+
+* This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * 
- * This program was modified from Ajax Contact Form plugin, version 1.0.0, 
- * Copyright (C) 2011 Richard Gigs, released under the GNU General Public License.
-*/
+**/
 
+ 
 var overlayOpacity = 0.8;	// controls transparency of shadow overlay
 var animate = true;			// toggles resizing animations
 var resizeSpeed = 9;		// controls the speed of the image resizing animations (1=slowest and 10=fastest)
