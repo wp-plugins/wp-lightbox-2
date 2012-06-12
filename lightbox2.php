@@ -61,7 +61,7 @@ function lightbox_styles() {
 	<!-- begin lightbox scripts -->
 	<script type=\"text/javascript\">
     //<![CDATA[
-    document.write('<link rel=\"stylesheet\" href=\"".$lightbox_style."lightbox2.css\" type=\"text/css\" media=\"screen\" />');
+    document.write('<link rel=\"stylesheet\" href=\"".$lightbox_style."lightbox.css\" type=\"text/css\" media=\"screen\" />');
     //]]>
     </script>
 	<!-- end lightbox scripts -->\n";
