@@ -1,7 +1,29 @@
-// For original FULL CODE COMMENTS grab the original lightbox source: http://www.huddletogether.com/projects/lightbox2/releases/lightbox2.03.3.zip
-//	Lightbox v2.03.3 by Lokesh Dhakar
-//	http://huddletogether.com/projects/lightbox2/
-//	Licensed under the Creative Commons Attribution 2.5 License
+/**
+ * Plugin Name: WP Lightbox 2
+ * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
+ * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
+ * Version:       2.0
+ * Author:        Pankaj Jha
+ * Author URI:    http://onlinewebapplication.com/
+ * License:       GNU General Public License, v2 (or newer)
+ * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ */
+/*  Copyright 2011 Pankaj Jha (onlinewebapplication.com)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation using version 2 of the License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+*/
+
 // ----------------------------------------------------------------
 // -----------------------------------------------------------------------------------
 //	Configuration

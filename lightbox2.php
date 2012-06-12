@@ -61,7 +61,7 @@ function lightbox_styles() {
 	<!-- begin lightbox scripts -->
 	<script type=\"text/javascript\">
     //<![CDATA[
-    document.write('<link rel=\"stylesheet\" href=\"".$lightbox_style."lightbox.css\" type=\"text/css\" media=\"screen\" />');
+    document.write('<link rel=\"stylesheet\" href=\"".$lightbox_style."lightbox2.css\" type=\"text/css\" media=\"screen\" />');
     //]]>
     </script>
 	<!-- end lightbox scripts -->\n";
@@ -90,9 +90,9 @@ if (get_option('lightbox_2_automate') == 1){
 /* To resize images, or not to resize; that is the question */
 $resize_images_or_not = get_option('lightbox_2_resize_on_demand');
 if ($resize_images_or_not == 1) {
-	$stimuli_lightbox_js = "lightbox-resize.js"; 
+	$stimuli_lightbox_js = "lightbox2-resize.js"; 
 } else {
-	$stimuli_lightbox_js = "lightbox.js"; 
+	$stimuli_lightbox_js = "lightbox2.js"; 
 }
 
 if (!is_admin()) { // if we are *not* viewing an admin page, like writing a post or making a page:
