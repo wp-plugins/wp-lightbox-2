@@ -3,13 +3,12 @@ Contributors: Pankaj Jha
 Plugin Site: http://onlinewebapplication.com/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.4
 Stable tag: 3.0.0
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
-This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
-Used to overlay images on the current page. Extension of Lightbox 2 which features 'auto-lightboxing' of image links, courtesy of Michael Tyson and Lightbox2.
+From 2.0, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
