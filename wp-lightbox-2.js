@@ -1,10 +1,10 @@
 /**
- * WP jQuery Lightbox
- * Version 1.3.4.2 - 2011-02-01
- * @author Ulf Benjaminsson (http://www.ulfben.com)
+ * WP Lightbox 2
+ * Version 2.0
+ * @author Pankaj Jha (http://onlinewebapplication.com)
  *
- * This is a modified version of Warren Krevenkis Lightbox-port (see notice below) for use in the WP jQuery Lightbox-
- * plugin (http://wordpress.org/extend/plugins/wp-jquery-lightbox/)
+ * This is a modified version of Warren Krevenkis Lightbox-port and  WP jQuery Lightbox @author Ulf Benjaminsson (http://www.ulfben.com) (see notice below) for use in the WP Lightbox 2-
+ * plugin (http://wordpress.org/extend/plugins/wp-lightbox-2/)
  *  Modifications include:
  *	. added "support" for WordPress admin bar.
  *	. improved the resizing code to respect aspect ratio

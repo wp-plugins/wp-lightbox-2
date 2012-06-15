@@ -8,7 +8,7 @@ Stable tag: 3.0.0
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
-From 2.0, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
+From 2.1, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
