@@ -69,7 +69,7 @@ You can check Screen Shots on plugin website URL :<br />
 
 == Changelog ==
 
-= 1.0 =
+= 2.1 =
 * Default view changed to Colorbox due to the license regulation by the plugin directory.
 
 = 2.0 =
@@ -83,5 +83,5 @@ You can check Screen Shots on plugin website URL :<br />
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 2.1 =
 Default view changed to Colorbox due to the license regulation by the plugin directory.
