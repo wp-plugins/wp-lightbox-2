@@ -5,6 +5,8 @@ Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin
 Requires at least: 2.8
 Tested up to: 3.4
 Stable tag: 3.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
@@ -64,3 +66,22 @@ You can check more FAQ on plugin website URL :<br />
 
 You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
+
+== Changelog ==
+
+= 1.0 =
+* Default view changed to Colorbox due to the license regulation by the plugin directory.
+
+= 2.0 =
+* List versions.
+* Works on all modern browsers.
+* Group related images in post and navigate through them with ease.
+* Backwards Compatibility.
+* No configuration required.
+* 5 Inbuilt theme.
+* Lightbox display of Gallery.
+
+== Upgrade Notice ==
+
+= 1.0 =
+Default view changed to Colorbox due to the license regulation by the plugin directory.
