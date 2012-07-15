@@ -1,5 +1,5 @@
 <style type="text/css">
-	#about{ float: right; width:350px; background: #ffc; border: 1px solid #333; padding: 5px; text-align: justify; }
+	#about{ float: right; width:250px; background: #ffc; border: 1px solid #333; padding: 5px; text-align: justify; }
 	#about p, li, ol{ font-family:verdana; font-size:11px; }
 	#about h3 {text-align:center;}
 	.field_info {text-align:right;};
