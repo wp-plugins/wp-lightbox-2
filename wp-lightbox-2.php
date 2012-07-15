@@ -182,6 +182,9 @@ function jqlb_options_panel(){
 	
 	<div class="wrap">
 	<h2>WP Lightbox 2</h2>	
+     <div id="sideblock" style="float:right;width:270px;margin-left:10px;"> 
+		 <iframe width=270 height=500 frameborder="0" src="http://demos.onlinewebapplication.com/wp-internal-links/SEOIinternalLinks.html"></iframe>
+ 	</div>
 	<?php include_once(plugin_dir_path(__FILE__).'about.php'); ?>
 	<form method="post" action="options.php">
 		<table>
