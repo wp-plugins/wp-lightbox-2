@@ -39,7 +39,8 @@ To do a new installation of the plugin, please follow these steps
 4. Activate the plugin through the 'Plugins' menu in WordPress.
 5. Optionally, go to the Options page and select a new Lightbox colour scheme.
 
-
+<br />
+[How to use WP Lighbox 2](http://onlinewebapplication.com/2012/08/how-to-use-wp-lightbox-2-wordpress-plugin.html)<br />
 
 == Frequently Asked Questions ==
 
@@ -69,6 +70,10 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
 
 == Changelog ==
+= 2.21 =
+* Image Map
+* Shrink large images to fit smaller screens.
+
 = 2.2 =
 * Bug Fixed [Can't install update](http://wordpress.org/support/topic/plugin-wp-lightbox-2-cant-installa-update).
 
