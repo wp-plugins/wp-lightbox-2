@@ -4,7 +4,7 @@
  * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
  * Version:       2.21
- * Author:        Pankaj Jha
+ * Author:        masdiblogs
  * Author URI:    http://profiles.wordpress.org/masdiblogs
  * License:       GNU General Public License, v2 (or newer)
  * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
