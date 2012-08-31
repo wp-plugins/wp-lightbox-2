@@ -70,6 +70,7 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
 
 == Changelog ==
+
 = 2.22 =
 * Fixed one s, that caused a fatal error.
 
