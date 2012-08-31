@@ -5,7 +5,7 @@ Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox
 Requires at least: 2.8
 Tested up to: 3.4.1
-Stable tag: 3.0.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,9 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
 
 == Changelog ==
+= 2.22 =
+* Fixed one s, that caused a fatal error.
+
 = 2.21 =
 * Image Map
 * Shrink large images to fit smaller screens.
