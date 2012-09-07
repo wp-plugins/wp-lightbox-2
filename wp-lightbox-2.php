@@ -3,7 +3,7 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.22
+ * Version:       2.23
  * Author:        masdiblogs
  * Author URI:    http://profiles.wordpress.org/masdiblogs
  * License:       GNU General Public License, v2 (or newer)
@@ -26,7 +26,8 @@
 */
 
 /*2.21 - Image Map, Shrink large images to fit smaller screens*/
-/*2.22 - Image Map, Shrink large images to fit smaller screens*/
+/*2.22 - Fixed one s, that caused a fatal error*/
+/*2.23 - Updated jQuery calls for faster load*/
 add_action( 'plugins_loaded', 'jqlb_init' );
 function jqlb_init() {
 	if(!defined('ULFBEN_DONATE_URL')){
@@ -283,7 +284,7 @@ _top: open the image in the full body of the window', 'jqlb') ?>"><?php _e('Targ
 			}
 		}
 		if($text === false){
-			$text = '<p>The documentation files are missing! Try <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/">downloading</a> and <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/installation/">re-installing</a> this plugin.</p>';
+			$text = '<p>The documentation files are missing! Try <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/">downloading</a> and <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/installation/">re-installing</a> this lightbox plugin.</p>';
 		}
 		echo $text;
 	?>

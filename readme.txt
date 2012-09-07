@@ -15,6 +15,8 @@ From 2.1, the default view changed to Colorbox due to the license regulation by 
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
+<b>This is the first Ligtbox plugin which support Image Map.</b>
+
 Feature:
 
 1. Works on all modern browsers.
@@ -70,6 +72,8 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
 
 == Changelog ==
+= 2.23 =
+* Updated jQuery calls.
 
 = 2.22 =
 * Fixed one s, that caused a fatal error.
