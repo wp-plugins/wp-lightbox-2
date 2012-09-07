@@ -26,6 +26,10 @@ Feature:
 5. 5 Inbuilt theme.
 6. Lightbox display of Gallery.
 
+See the plugin in action here: [WP Lightbox 2 Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+
+If you value my plugins, please help me out by rate this.
+
 <br />
 [Author Site](http://onlinewebapplication.com)|
 [Plugin Home Page](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)
