@@ -4,7 +4,7 @@ Plugin Site: http://onlinewebapplication.com/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox
 Requires at least: 2.8
-Tested up to: 3.4.1
+Tested up to: 3.4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -76,6 +76,9 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
 
 == Changelog ==
+= 2.24 =
+* Compatible with wordpress 3.4.2
+
 = 2.23 =
 * Updated jQuery calls.
 
@@ -102,6 +105,8 @@ You can check Screen Shots on plugin website URL :<br />
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.24 =
+Compatible with wordpress 3.4.2
 
 = 2.1 =
 Default view changed to Colorbox due to the license regulation by the plugin directory.
