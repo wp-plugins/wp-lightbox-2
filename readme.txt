@@ -46,7 +46,7 @@ To do a new installation of the plugin, please follow these steps
 5. Optionally, go to the Options page and select a new Lightbox colour scheme.
 
 <br />
-[How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/l)<br />
+[How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
 
 == Frequently Asked Questions ==
 
