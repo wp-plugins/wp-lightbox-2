@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
-From 2.1, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
+From 2.1, the default view changed to [Colorbox](http://onlinewebapplication.com/wp-lightbox-2/) due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
@@ -32,7 +32,7 @@ If you value my plugins, please help me out by rate this.
 
 <br />
 [Author Site](http://onlinewebapplication.com)|
-[Plugin Home Page](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)
+[Plugin Home Page](http://onlinewebapplication.com/wp-lightbox-2/)
 <br />
 <br />
 == Installation ==
@@ -46,7 +46,7 @@ To do a new installation of the plugin, please follow these steps
 5. Optionally, go to the Options page and select a new Lightbox colour scheme.
 
 <br />
-[How to use WP Lighbox 2](http://onlinewebapplication.com/2012/08/how-to-use-wp-lightbox-2-wordpress-plugin.html)<br />
+[How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/l)<br />
 
 == Frequently Asked Questions ==
 
@@ -67,13 +67,13 @@ Answer: Yes it does. The problem is with your WordPress theme, mangling image di
 
 <br />
 You can check more FAQ on plugin website URL :<br />
-[WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
+[WP Lightbox 2](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 
 == Screenshots ==
 
 You can check Screen Shots on plugin website URL :<br />
-[WP Lightbox 2](http://onlinewebapplication.com/2011/11/wp-lightbox-2.html)<br />
+[WP Lightbox 2](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 == Changelog ==
 = 2.24 =

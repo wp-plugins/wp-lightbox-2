@@ -1,6 +1,6 @@
 /**
  * Plugin Name: WP Lightbox 2
- * Plugin URI: http://onlinewebapplication.com/2011/11/wp-lightbox-2.html
+ * Plugin URI: http://onlinewebapplication.com/wp-lightbox-2/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
  * Version:       2.24
  * Author:        Pankaj Jha
