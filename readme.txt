@@ -76,6 +76,10 @@ You can check Screen Shots on plugin website URL :<br />
 [WP Lightbox 2](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 == Changelog ==
+= 2.25 =
+* Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
+* Fixed Bug [Stopped Working with W3 Total Cache](http://onlinewebapplication.com/wp-lightbox-2/)
+
 = 2.24 =
 * Compatible with wordpress 3.4.2
 
@@ -105,6 +109,10 @@ You can check Screen Shots on plugin website URL :<br />
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.25 =
+Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
+Fixed Bug [Stopped Working with W3 Total Cache](http://onlinewebapplication.com/wp-lightbox-2/)
+
 = 2.24 =
 Compatible with wordpress 3.4.2
 
