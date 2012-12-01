@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
 == Description ==
-From 2.1, the default view changed to [Colorbox](http://onlinewebapplication.com/wp-lightbox-2/) due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
+From 2.1, the default view changed to [Colorbox](http://yepinol.com/lightbox-2-plugin-wordpress/) due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox.
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
@@ -26,7 +26,9 @@ Feature:
 5. 5 Inbuilt theme.
 6. Lightbox display of Gallery.
 
-See the plugin in action here: [WP Lightbox 2 Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+See the plugin in action here: 
+[WP Lightbox 2 Demo link 1](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
+[WP Lightbox 2 Demo link 2](http://onlinewebapplication.com/wp-lightbox-2-demo/)
 
 If you value my plugins, please help me out by rate this.
 
