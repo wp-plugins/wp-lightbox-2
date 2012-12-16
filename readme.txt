@@ -17,7 +17,7 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 <b>This is the first Ligtbox plugin which support Image Map.</b>
 
-Feature:
+<b>Feature</b>:
 
 1. Works on all modern browsers.
 2. Group related images in post and navigate through them with ease.
