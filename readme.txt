@@ -2,7 +2,7 @@
 Contributors: masdiblogs
 Plugin Site: http://onlinewebapplication.com/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
-Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox
+Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: trunk
@@ -86,12 +86,12 @@ You can check more FAQ on plugin official website URL :<br />
 == Screenshots ==
 
 You can check Screen Shots on plugin website URL :<br />
-[WP Lightbox 2 Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
-[WP Lightbox 2 Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
+WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
+WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
 = 2.26 =
-* Compatible with wordpress 3.5
+* Compatible with wordpress 3.5. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
 = 2.25 =
 * Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
@@ -104,8 +104,8 @@ You can check Screen Shots on plugin website URL :<br />
 * Updated jQuery calls.
 
 = 2.22 =
-	* Fixed one s, that caused a fatal error.
-	
+* Fixed one s, that caused a fatal error.
+
 = 2.21 =
 * Image Map
 * Shrink large images to fit smaller screens.
