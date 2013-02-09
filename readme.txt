@@ -4,7 +4,7 @@ Plugin Site: http://onlinewebapplication.com/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow
 Requires at least: 3.0
-Tested up to: 3.5
+Tested up to: 3.5.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -90,8 +90,11 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.27 =
+* Compatible with wordpress 3.5.1. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
 = 2.26 =
-* Compatible with wordpress 3.5. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.5 .
 
 = 2.25 =
 * Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
@@ -126,6 +129,9 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.27 =
+* Compatible with wordpress 3.5.1.
+
 = 2.26 =
 * Compatible with wordpress 3.5
 
