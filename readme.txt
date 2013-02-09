@@ -91,10 +91,10 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
 = 2.27 =
-* Compatible with wordpress 3.5.1. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.5.1. Check more details [here](http://onlinewebapplication.com/wp-lightbox-2/).
 
 = 2.26 =
-* Compatible with wordpress 3.5 .
+* Compatible with wordpress 3.5 . Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/)
 
 = 2.25 =
 * Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
