@@ -3,7 +3,7 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://onlinewebapplication.com/wp-lightbox-2/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.27
+ * Version:       2.28
  * Author:        masdiblogs
  * Author URI:    http://profiles.wordpress.org/masdiblogs
  * License:       GNU General Public License, v2 (or newer)
@@ -32,6 +32,10 @@
 /*2.25 - Fixed PHP 5 bug*/
 /*2.26 - Compatible with wordpress 3.5*/
 /*2.27 - Compatible with wordpress 3.5.1*/
+/*
+2.28 - wp_print_scripts and wp_print_styles should not be used to enqueue styles or scripts on the front page. Use wp_enqueue_scripts instead.
+*/
+
 add_action( 'plugins_loaded', 'jqlb_init' );
 function jqlb_init() {
 	if(!defined('ULFBEN_DONATE_URL')){
@@ -47,8 +51,8 @@ function jqlb_init() {
 	//load_plugin_textdomain('jqlb', false, plugin_dir_path(__FILE__).'I18n/');
 	add_action('admin_init', 'jqlb_register_settings');
 	add_action('admin_menu', 'jqlb_register_menu_item');
-	add_action('wp_print_styles', 'jqlb_css');	
-	add_action('wp_print_scripts', 'jqlb_js');
+	add_action('wp_enqueue_scripts', 'jqlb_css');	
+	add_action('wp_enqueue_scripts', 'jqlb_js');
 	add_filter('plugin_row_meta', 	'jqlb_set_plugin_meta', 2, 10);	
 	add_filter('the_content', 'jqlb_autoexpand_rel_wlightbox', 99);
 	if(get_option('jqlb_comments') == 1){
