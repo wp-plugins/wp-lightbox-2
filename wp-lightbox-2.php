@@ -3,7 +3,7 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://onlinewebapplication.com/wp-lightbox-2/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.28
+ * Version:       2.28.1
  * Author:        masdiblogs
  * Author URI:    http://profiles.wordpress.org/masdiblogs
  * License:       GNU General Public License, v2 (or newer)
@@ -35,7 +35,7 @@
 /*
 2.28 - wp_print_scripts and wp_print_styles should not be used to enqueue styles or scripts on the front page. Use wp_enqueue_scripts instead.
 */
-
+/*2.28.1 - Fixed PHP 5 comment bug that got reintroduced into plugin*/
 add_action( 'plugins_loaded', 'jqlb_init' );
 function jqlb_init() {
 	if(!defined('ULFBEN_DONATE_URL')){

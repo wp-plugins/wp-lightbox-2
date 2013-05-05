@@ -90,6 +90,9 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.1 =
+Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [here](http://onlinewebapplication.com/wp-lightbox-2/).
+
 = 2.28 =
 *Use wp_enqueue_scripts instead.  Check support thread (http://wordpress.org/support/topic/please-stop-using-the-wp_print_scripts-action-hook-to-load-your-javascript).
 
@@ -132,6 +135,9 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.1 =
+*Fixed PHP 5 comment bug that got reintroduced into plugin.
+
 = 2.28 =
 *Use wp_enqueue_scripts instead
 
