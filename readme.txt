@@ -27,6 +27,7 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 6. Lightbox display of Gallery.
 7. Display image metadata (caption, description, etc.) in lightbox
 8. Group image links (play as a slideshow)
+9. Compatible with wordpress HTML5 
 
 <b>See the plugin in action here:</b> 
 [Demo link 1](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
@@ -37,7 +38,7 @@ Know How to use WP Lighbox 2 [here](http://onlinewebapplication.com/how-to-use-w
 <b>Troubleshooting:<b>
 Please read the [FAQ](http://yepinol.com/wp-lightbox-2-faq/) first if you are having problems.
 
-If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://onlinewebapplication.com/contact-form/).
+If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://forums.onlinewebapplication.com/).
 
 If you value my plugins, please help me out by rate this.
 <br />
@@ -90,6 +91,9 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.2 =
+* Compatible with wordpress HTML5 Themes. Check more details [here](http://forums.onlinewebapplication.com/wp-ligbox2-release-2-28-2/).
+
 = 2.28.1 =
 Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [here](http://onlinewebapplication.com/wp-lightbox-2/).
 
@@ -135,6 +139,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [h
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.2 =
+*Compatible with wordpress HTML5.
+
 = 2.28.1 =
 *Fixed PHP 5 comment bug that got reintroduced into plugin.
 
