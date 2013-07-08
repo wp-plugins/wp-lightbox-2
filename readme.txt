@@ -91,6 +91,10 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.3 =
+* Fixed HTML5 Themes support issues. Check more details [here]
+(http://onlinewebapplication.com/wp-lightbox-2/).
+
 = 2.28.2 =
 * Compatible with wordpress HTML5 Themes. Check more details [here](http://forums.onlinewebapplication.com/wp-ligbox2-release-2-28-2/).
 
@@ -139,6 +143,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [h
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.3 =
+* Fixed HTML5 Themes support issues
+
 = 2.28.2 =
 *Compatible with wordpress HTML5.
 
