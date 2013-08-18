@@ -2,7 +2,7 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://onlinewebapplication.com/wp-lightbox-2/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.28.3
+ * Version:       2.28.4
  * Author:        Pankaj Jha
  * Author URI:    http://onlinewebapplication.com/
  * License:       GNU General Public License, v2 (or newer)
@@ -293,7 +293,7 @@
 			$('#lightboxImage').width(newWidth).height(newHeight);
 			resizeImageContainer(newWidth, newHeight, newTop, newLeft);           
         }
-
+/*2.28.4 -  Compatible with wordpress 3.6.*/
         function resizeImageContainer(imgWidth, imgHeight, lightboxTop, lightboxLeft) {
             opts.widthCurrent = $("#outerImageContainer").outerWidth();
             opts.heightCurrent = $("#outerImageContainer").outerHeight();
