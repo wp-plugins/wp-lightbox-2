@@ -59,8 +59,9 @@ To do a new installation of the plugin, please follow these steps
 
 <br />
 [How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
-
+[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
 == Frequently Asked Questions ==
+[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
 
 Question: Why does not plugin is working for me?
 
@@ -85,6 +86,7 @@ You can check more FAQ on plugin official website URL :<br />
 [WP Lightbox 2 Official URL](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 == Screenshots ==
+[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
 
 You can check Screen Shots on plugin website URL :<br />
 WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
