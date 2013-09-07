@@ -59,7 +59,7 @@ To do a new installation of the plugin, please follow these steps
 
 <br />
 [How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
-[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 == Frequently Asked Questions ==
 [Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 
