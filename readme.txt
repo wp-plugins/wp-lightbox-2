@@ -31,7 +31,7 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 <b>See the plugin in action here:</b> 
 [Demo link 1](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
-[Demo link 2](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo link 2](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 
 Know How to use WP Lighbox 2 [here](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
 
@@ -61,7 +61,7 @@ To do a new installation of the plugin, please follow these steps
 [How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
 [Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
 == Frequently Asked Questions ==
-[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 
 Question: Why does not plugin is working for me?
 
@@ -86,7 +86,7 @@ You can check more FAQ on plugin official website URL :<br />
 [WP Lightbox 2 Official URL](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 == Screenshots ==
-[Demo](http://onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 
 You can check Screen Shots on plugin website URL :<br />
 WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
