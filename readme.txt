@@ -15,7 +15,7 @@ From 2.1, the default view changed to [Colorbox](http://yepinol.com/lightbox-2-p
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
-<b>This is the first Ligtbox plugin which support Image Map.</b>
+<b>This is the first Ligtbox plugin[http://yepinol.com/lightbox-2-plugin-wordpress/] which support Image Map.</b>
 
 <b>Feature</b>:
 
@@ -43,8 +43,7 @@ If you are unable to resolve your problem with the information provided in the F
 If you value my plugins, please help me out by rate this.
 <br />
 Author [Site](http://onlinewebapplication.com)<br />
-Lightbox 2 Plugin Home Page [link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
-Lightbox 2 Plugin Home Page [link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)
+[Lightbox 2 Plugin Home Page](http://yepinol.com/lightbox-2-plugin-wordpress/)
 <br />
 <br />
 == Installation ==
@@ -59,7 +58,8 @@ To do a new installation of the plugin, please follow these steps
 
 <br />
 [How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
-[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)<br />
+[FAQ](http://yepinol.com/wp-lightbox-2-faq/)
 == Frequently Asked Questions ==
 [Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
 
