@@ -7,7 +7,7 @@
 <?php echo "<div id='about'> 
 	<h3>From the author</h3> 				
 	<p>My name is <a href='http://onlinewebapplication.com/'>Pankaj Jha</a> and I've developed WP Lightbox 2. Nice to meet you! :)<p>
-	<p>Feel free to post any issues <a href='http://onlinewebapplication.com/wp-lightbox-2/' target='_blank'>here </a><p>
+	<p>Feel free to post any issues <a href='http://yepinol.com/lightbox-2-plugin-wordpress/' target='_blank'>here </a><p>
 <p>Discussion <a href='http://forums.onlinewebapplication.com/' target='_blank'>here </a><p>
 </div>"; 
 ?>
