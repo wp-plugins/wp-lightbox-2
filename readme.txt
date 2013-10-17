@@ -93,6 +93,9 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.6 =
+* Fixed navigation issue (minor release). Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
 = 2.28.5 =
 *Compatible with wordpress 3.6.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
@@ -151,6 +154,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [h
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.6 =
+* Fixed navigation issue (minor release)
+
 = 2.28.5 =
 * Compatible with wordpress 3.6.1
 
