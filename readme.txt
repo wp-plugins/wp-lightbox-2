@@ -94,7 +94,7 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
 = 2.28.8.2 =
-* Compatible with wordpress 3.8.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.8.1. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
 = 2.28.8.1 =
 * Fixed navigation Issue. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
