@@ -1,6 +1,6 @@
 === WP Lightbox 2 ===
 Contributors: masdiblogs
-Plugin Site: http://onlinewebapplication.com/
+Plugin Site: http://yepinol.com/lightbox-2-plugin-wordpress/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow
 Requires at least: 3.0
@@ -15,7 +15,7 @@ From 2.1, the default view changed to [Colorbox](http://yepinol.com/lightbox-2-p
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
-<b>This is the first [Ligtbox plugin](http://yepinol.com/lightbox-2-plugin-wordpress/) which support Image Map.</b>
+<b>This is the first [Ligtbox plugin](http://onlinewebapplication.com/wp-lightbox-2/) which support Image Map.</b>
 
 <b>Feature</b>:
 
@@ -30,10 +30,10 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 9. Compatible with wordpress HTML5 
 
 <b>See the plugin in action here:</b> 
-[Demo link 1](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
-[Demo link 2](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
+[Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
 
-Know How to use WP Lighbox 2 [here](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
+
+[Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
 
 <b>Troubleshooting:<b>
 Please read the [FAQ](http://yepinol.com/wp-lightbox-2-faq/) first if you are having problems.
@@ -42,7 +42,7 @@ If you are unable to resolve your problem with the information provided in the F
 
 If you value my plugins, please help me out by rate this.
 <br />
-Author [Site](http://onlinewebapplication.com)<br />
+[Author Site](http://onlinewebapplication.com)<br />
 [Lightbox 2 Plugin Home Page](http://yepinol.com/lightbox-2-plugin-wordpress/)
 <br />
 <br />
