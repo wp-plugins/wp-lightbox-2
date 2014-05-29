@@ -3,7 +3,7 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://yepinol.com/lightbox-2-plugin-wordpress/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.28.8.4
+ * Version:       2.28.8.5
  * Author:        Pankaj Jha
  * Author URI:    http://onlinewebapplication.com/
  * License:       GNU General Public License, v2 (or newer)
@@ -47,6 +47,7 @@
 /*2.28.8.2 - Compatible with wordpress 3.8.1*/
 /*2.28.8.3 - Fixed full screen close*/
 /*2.28.8.4 - Compatible with wordpress 3.9*/
+/*2.28.8.5 - Fixed Responsiveness Issue */
 
 add_action( 'plugins_loaded', 'jqlb_init' );
 function jqlb_init() {
@@ -233,7 +234,7 @@ function jqlb_options_panel(){
 					<?php $check = get_option('jqlb_show_download') ? ' checked="yes" ' : ''; ?>
 					<input type="checkbox" id="jqlb_show_download" name="jqlb_show_download" value="1" <?php echo $check; ?> />
 					<label for="jqlb_show_download"> <?php _e('Show download link', 'jqlb') ?> </label>
-				</td>
+			</td>
 				<td>
 				<?php $target = get_option('jqlb_link_target'); ?>
 				<label for="jqlb_link_target" title="<?php _e('_blank: open the image in a new window or tab
@@ -301,7 +302,7 @@ _top: open the image in the full body of the window', 'jqlb') ?>"><?php _e('Targ
 			$text = @file($diskfile);
 			if($text !== false){
 				$text = implode("", $text);
-			}
+		      }
 		}
 		if($text === false){
 			$text = '<p>The documentation files are missing! Try <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/">downloading</a> and <a href="http://wordpress.org/extend/plugins/wp-lightbox-2/installation/">re-installing</a> this lightbox plugin.</p>';
