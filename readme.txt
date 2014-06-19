@@ -2,16 +2,17 @@
 Contributors: masdiblogs
 Plugin Site: http://yepinol.com/lightbox-2-plugin-wordpress/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
-Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow
+Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow, nextgen, page, pagination gallery, pagination portfolio, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, html5 player
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
+This plugin used to add the responsive lightbox (overlay) effect to the current page images and create photo albums on your WordPress blog.
 == Description ==
-From 2.1, the default view changed to [Colorbox](http://yepinol.com/lightbox-2-plugin-wordpress/) due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox. 
+### [Best Responsive Lightbox (overlay) effect Plugin - Photo Albums - Image Map Plugin](http://yepinol.com/lightbox-2-plugin-wordpress/)
+From 2.1, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox. 
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
 
@@ -29,15 +30,18 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 8. Group image links (play as a slideshow)
 9. Compatible with wordpress HTML5 
 
-<b>See the plugin in action here:</b> 
-[Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
 
 
-[Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
+> #### **Live Demos and Usage**
 
-<b>Troubleshooting:<b>
-Please read the [FAQ](http://yepinol.com/wp-lightbox-2-faq/) first if you are having problems.
+> * [DEMO: Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
+> * [Usage: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
+> * [Troubleshooting: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
+> 
 
+
+
+= Full support =
 If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://forums.onlinewebapplication.com/).
 
 If you value my plugins, please help me out by rate this.
@@ -93,6 +97,9 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.8.6 =
+* Compatible with wordpress 3.9.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
 = 2.28.8.5 =
 * Fixed Responsiveness Issue [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
@@ -175,6 +182,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [h
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.8.6 =
+* Compatible with wordpress 3.9.1
+
 = 2.28.8.5 =
 * Fixed Responsiveness Issue
 
