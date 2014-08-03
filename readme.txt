@@ -42,7 +42,7 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 
 = Full support =
-If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://forums.onlinewebapplication.com/).
+If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://onlinewebapplication.com/wp-lighbox-2-support-forums/).
 
 If you value my plugins, please help me out by rate this.
 <br />
@@ -62,10 +62,11 @@ To do a new installation of the plugin, please follow these steps
 
 <br />
 [How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
-[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)<br />
+[DEMO(http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)<br />
 [FAQ](http://yepinol.com/wp-lightbox-2-faq/)
+[SUPPORT FORUM](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
 == Frequently Asked Questions ==
-[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
 
 Question: Why does not plugin is working for me?
 
@@ -90,13 +91,16 @@ You can check more FAQ on plugin official website URL :<br />
 [WP Lightbox 2 Official URL](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 
 == Screenshots ==
-[Demo](http://demo.onlinewebapplication.com/wp-lightbox-2-demo/)
+[Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
 
 You can check Screen Shots on plugin website URL :<br />
 WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.8.7 =
+* Fixed Image Galary and other HTML issue minor fix [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
 = 2.28.8.6 =
 * Compatible with wordpress 3.9.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
@@ -182,6 +186,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin. Check more details [h
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.8.7 =
+* Fixed Image Galary and other HTML issue minor fix
+
 = 2.28.8.6 =
 * Compatible with wordpress 3.9.1
 
