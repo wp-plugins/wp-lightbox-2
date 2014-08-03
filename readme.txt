@@ -18,7 +18,8 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 <b>This is the first [Ligtbox plugin](http://onlinewebapplication.com/wp-lightbox-2/) which support Image Map.</b>
 
-<b>Feature</b>:
+
+= Feature =
 
 1. Works on all modern browsers.
 2. Group related images in post and navigate through them with ease.
@@ -36,12 +37,9 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 > 
 * [DEMO: Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
-> 
-* [USAGE: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
-> 
-* [SUPPORT FORUM: Ask for support](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
-> 
-* [TROUBLESHOOTING: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
+> * [USAGE: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
+> * [SUPPORT FORUM: Ask for support](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
+> * [TROUBLESHOOTING: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
 > 
 
 
