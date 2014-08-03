@@ -34,9 +34,14 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 
 > #### **Live Demos, Support and Usage**
 
-> * [DEMO: Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
-> * [USAGE: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
-> * [SUPPORT FORUM: Ask for support](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)> * [TROUBLESHOOTING: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
+> 
+* [DEMO: Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
+> 
+* [USAGE: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
+> 
+* [SUPPORT FORUM: Ask for support](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
+> 
+* [TROUBLESHOOTING: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
 > 
 
 
