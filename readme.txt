@@ -4,7 +4,7 @@ Plugin Site: http://yepinol.com/lightbox-2-plugin-wordpress/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow, nextgen, page, pagination gallery, pagination portfolio, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, html5 player
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -101,14 +101,17 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+= 2.28.8.9 =
+* Compatible with wordpress 4.0 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
 = 2.28.8.8 =
-* Compatible with wordpress 3.9.2 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.9.2
 
 = 2.28.8.7 =
 * Fixed Image Galary and other HTML issue minor fix [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
 = 2.28.8.6 =
-* Compatible with wordpress 3.9.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.9.1
 
 = 2.28.8.5 =
 * Fixed Responsiveness Issue [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
@@ -120,7 +123,7 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 * Fixed full screen image close issue [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
 
 = 2.28.8.2 =
-* Compatible with wordpress 3.8.1. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+* Compatible with wordpress 3.8.1
 
 = 2.28.8.1 =
 * Fixed navigation Issue. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
@@ -191,6 +194,9 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+= 2.28.8.9 =
+* Compatible with wordpress 4.0
+
 = 2.28.8.8 =
 * Compatible with wordpress 3.9.2
 
