@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin used to add the responsive lightbox (overlay) effect to the current page images and create photo albums/gallery on your WordPress blog.
 == Description ==
 [**Best Responsive Lightbox (overlay) effect Plugin - Photo Albums - Image Gallery/Map Plugin**](http://yepinol.com/lightbox-2-plugin-wordpress/)
+
 From 2.1, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox. 
 
 Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
