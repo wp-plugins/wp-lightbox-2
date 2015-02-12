@@ -1,11 +1,11 @@
 === WP Lightbox 2 ===
-Contributors: masdiblogs
+Contributors: wpdevart
 Plugin Site: http://yepinol.com/lightbox-2-plugin-wordpress/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
 Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow, nextgen, page, pagination gallery, pagination portfolio, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, html5 player
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: trunk
+Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -103,102 +103,139 @@ WP Lightbox 2 [Link 1](http://onlinewebapplication.com/wp-lightbox-2/)<br />
 WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 == Changelog ==
+
+= 3.0.0 =
+
+* Created some important changes
+
 = 2.28.9.2.1 =
-* Fixed: Broken shortcodes with WordPress 4.1 Check [more details here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Fixed: Broken shortcodes with WordPress 4.1.
 
 = 2.28.9.2 =
-* Compatible with wordpress 4.1 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Compatible with wordpress 4.1.
 
 = 2.28.9.1 =
+
 * Compatible with wordpress 4.0.1.
 
 = 2.28.9.0 =
-* Optimize: content grouping support and exclusion performance [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Optimize: content grouping support and exclusion performance .
 
 = 2.28.8.9 =
+
 * Compatible with wordpress 4.0.
 
 = 2.28.8.8 =
+
 * Compatible with wordpress 3.9.2
 
 = 2.28.8.7 =
-* Fixed Image Galary and other HTML issue minor fix [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Fixed Image Galary and other HTML issue minor fix .
 
 = 2.28.8.6 =
+
 * Compatible with wordpress 3.9.1
 
 = 2.28.8.5 =
-* Fixed Responsiveness Issue [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Fixed Responsiveness Issue .
 
 = 2.28.8.4 =
+
 * Compatible with wordpress 3.9.
 
 = 2.28.8.3 =
-* Fixed full screen image close issue [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Fixed full screen image close issue.
 
 = 2.28.8.2 =
+
 * Compatible with wordpress 3.8.1
 
 = 2.28.8.1 =
-* Fixed navigation Issue. Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Fixed navigation Issue. 
 
 = 2.28.8 =
-* Compatible with wordpress 3.8 Check more details [here](http://yepinol.com/lightbox-2-plugin-wordpress/).
+
+* Compatible with wordpress 3.8 .
 
 = 2.28.7 =
+
 * Compatible with wordpress 3.7.1.
 
 = 2.28.6.1 =
+
 * Fixed navigation issue (minor release).
 
 = 2.28.5 =
+
 *Compatible with wordpress 3.6.1.
 
 = 2.28.4 =
+
 *Compatible with wordpress 3.6.
 
 = 2.28.3 =
+
 * Fixed HTML5 Themes support issues.
 
 = 2.28.2 =
+
 * Compatible with wordpress HTML5 Themes.
 
 = 2.28.1 =
+
 Fixed PHP 5 comment bug that got reintroduced into plugin.
 
 = 2.28 =
+
 *Use wp_enqueue_scripts instead.  [Check support thread](http://wordpress.org/support/topic/please-stop-using-the-wp_print_scripts-action-hook-to-load-your-javascript).
 
 = 2.27 =
+
 * Compatible with wordpress 3.5.1.
 
 = 2.26 =
+
 * Compatible with wordpress 3.5.
 
 = 2.25 =
+
 * Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
 * Fixed Bug [Stopped Working with W3 Total Cache](http://onlinewebapplication.com/wp-lightbox-2/)
 
 = 2.24 =
+
 * Compatible with wordpress 3.4.2
 
 = 2.23 =
+
 * Updated jQuery calls.
 
 = 2.22 =
+
 * Fixed one s, that caused a fatal error.
 
 = 2.21 =
+
 * Image Map
 * Shrink large images to fit smaller screens.
 
 = 2.2 =
+
 * Bug Fixed [Can't install update](http://wordpress.org/support/topic/plugin-wp-lightbox-2-cant-installa-update).
 
 = 2.1 =
+
 * Default view changed to Colorbox due to the license regulation by the plugin directory.
 
 = 2.0 =
+
 * List versions.
 * Works on all modern browsers.
 * Group related images in post and navigate through them with ease.
@@ -208,6 +245,7 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 * Lightbox display of Gallery.
 
 == Upgrade Notice ==
+
 = 2.28.9.2.1 =
 * Fixed: Broken shortcodes with WordPress 4.1
 

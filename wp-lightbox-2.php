@@ -3,13 +3,13 @@
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://yepinol.com/lightbox-2-plugin-wordpress/
  * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
- * Version:       2.28.9.2.1
- * Author:        Pankaj Jha
+ * Version:       3.0.0
+ * Author:        wpdevart
  * Author URI:    http://onlinewebapplication.com/
  * License:       GNU General Public License, v2 (or newer)
  * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
-/*  Copyright 2011 Pankaj Jha (onlinewebapplication.com)
+/*  Copyright 2011 Pankaj Jha, current owner wpdevart.com 
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
