@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Lightbox 2
  * Plugin URI: http://yepinol.com/lightbox-2-plugin-wordpress/
- * Description: This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog.
+ * Description: WP Lightbox 2 is awesome tool for adding responsive lightbox (overlay) effect for images and also create lightbox for photo albums/galleries on your WordPress blog. WordPress Lightbox is one of the most useful plugins for your website.
  * Version:       3.0.0
  * Author:        wpdevart
  * Author URI:    http://onlinewebapplication.com/

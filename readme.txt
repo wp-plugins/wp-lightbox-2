@@ -2,22 +2,22 @@
 Contributors: wpdevart
 Plugin Site: http://yepinol.com/lightbox-2-plugin-wordpress/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
-Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox,  photo albums, slideshow, image map, imagemap, flash, gallery, AJAX slideshow, JQuery slideshow, nextgen, page, pagination gallery, pagination portfolio, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, html5 player
+Tags: lightbox, WP Lightbox, image, photo, picture, colorbox,  photo albums, slideshow, image map, flash, gallery, JQuery slideshow, nextgen, page, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, lightbox popup, Nivo Lightbox, responsive lightbox, light box, wordpress lightbox, social lightbox, lightbox gallery, video lightbox, gallery lightbox, wordpress image lightbox, Lightbox slider, image lightbox, lightbox pop, Jquery lightbox, css3 lightbox, lightbox photo, popup lightbox, wordpress lightbox gallery, lightbox images, wordpress video lightbox, lightbox youtube, prettyphoto lightbox, overlay, lightbox for youtube, lightview, onclick popup, shadowbox, modal, popup box, slimbox, popup, pop-up, popup window, popups, popup form, wordpress popup, optin popup, full page popup, jquery popup, custom popup, popup video, aweber, Responsive Popup, on click popup, hover, simple popup, image popup, quick popup, video popup, popup over,      
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin used to add the responsive lightbox (overlay) effect to the current page images and create photo albums/gallery on your WordPress blog.
+WP Lightbox 2 is awesome tool for adding responsive lightbox (overlay) effect for images and also create lightbox for photo albums/galleries on your WordPress blog. WordPress Lightbox is one of the most useful plugins for your website.
 == Description ==
 [**Best Responsive Lightbox (overlay) effect Plugin - Photo Albums - Image Gallery/Map Plugin**](http://yepinol.com/lightbox-2-plugin-wordpress/)
 
 From 2.1, the default view changed to Colorbox due to the license regulation by the plugin directory. This plugin used to add the lightbox (overlay) effect to the current page images on your WordPress blog. Used to overlay images on the current page. Extension of wp-jquery-lightbox. 
 
-Just install and sit back. This plugin enable image overlay lighbox effect for all the post images in your wordpress plugin. No configuration required.
+Just install and sit back. This plugin enable image overlay Lightbox effect for all the post images in your wordpress plugin. No configuration required.
 
-<b>This is the first [Ligtbox plugin](http://onlinewebapplication.com/wp-lightbox-2/) which support Image Map.</b>
+<b>This is the first [Lightbox plugin](http://onlinewebapplication.com/wp-lightbox-2/) which support Image Map.</b>
 
 
 = Feature =
@@ -37,14 +37,14 @@ Just install and sit back. This plugin enable image overlay lighbox effect for a
 > #### **Live Demos, Support and Usage**
 
 > 
-* [DEMO: Ligtbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
-> * [USAGE: Know How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
+* [DEMO: Lightbox plugin Demo](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)
+> * [USAGE: Know How to use WP Lightbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)
 > * [SUPPORT FORUM: Ask for support](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
 > * [TROUBLESHOOTING: Please read the FAQ first if you are having problems](http://yepinol.com/wp-lightbox-2-faq/)
 > 
 
-= WP Lighbox 2 Needs Your Support =
-It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using WP Lighbox 2 and find it useful, please consider [making a donation](http://onlinewebapplication.com/onlinewebapplication-com-donation/). Your donation will help encourage and support the plugin's continued development and better user support.
+= WP Lightbox 2 Needs Your Support =
+It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using WP Lightbox 2 and find it useful, please consider [making a donation](http://onlinewebapplication.com/onlinewebapplication-com-donation/). Your donation will help encourage and support the plugin's continued development and better user support.
 
 = Full support =
 If you are unable to resolve your problem with the information provided in the FAQ please leave your comments or submit a support [request](http://onlinewebapplication.com/wp-lighbox-2-support-forums/).
@@ -66,7 +66,7 @@ To do a new installation of the plugin, please follow these steps
 5. Optionally, go to the Options page and select a new Lightbox colour scheme.
 
 <br />
-[How to use WP Lighbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
+[How to use WP Lightbox 2](http://onlinewebapplication.com/how-to-use-wp-lightbox-2-wordpress-plugin/)<br />
 [DEMO](http://yepinol.com/wp-lightbox-2-plugin-wordpress-demo/)<br />
 [FAQ](http://yepinol.com/wp-lightbox-2-faq/)
 [SUPPORT FORUM](http://onlinewebapplication.com/wp-lighbox-2-support-forums/)
@@ -106,87 +106,87 @@ WP Lightbox 2 [Link 2](http://yepinol.com/lightbox-2-plugin-wordpress/)<br />
 
 = 3.0.0 =
 
-* Created some important changes
+* Created some important changes for Lightbox.
 
 = 2.28.9.2.1 =
 
-* Fixed: Broken shortcodes with WordPress 4.1.
+* Fixed: Broken shortcodes with WordPress 4.1 for Lightbox.
 
 = 2.28.9.2 =
 
-* Compatible with wordpress 4.1.
+* Compatible Lightbox with wordpress 4.1.
 
 = 2.28.9.1 =
 
-* Compatible with wordpress 4.0.1.
+* Compatible Lightbox with wordpress 4.0.1.
 
 = 2.28.9.0 =
 
-* Optimize: content grouping support and exclusion performance .
+* Optimize Lightbox: content grouping support and exclusion performance .
 
 = 2.28.8.9 =
 
-* Compatible with wordpress 4.0.
+* Compatible Lightbox with wordpress 4.0.
 
 = 2.28.8.8 =
 
-* Compatible with wordpress 3.9.2
+* Compatible Lightbox with wordpress 3.9.2
 
 = 2.28.8.7 =
 
-* Fixed Image Galary and other HTML issue minor fix .
+* Fixed Image Galary and other HTML issue minor for Lightbox .
 
 = 2.28.8.6 =
 
-* Compatible with wordpress 3.9.1
+* Compatible Lightbox with wordpress 3.9.1
 
 = 2.28.8.5 =
 
-* Fixed Responsiveness Issue .
+* Fixed Lightbox Responsiveness Issue .
 
 = 2.28.8.4 =
 
-* Compatible with wordpress 3.9.
+* Compatible Lightbox with wordpress 3.9.
 
 = 2.28.8.3 =
 
-* Fixed full screen image close issue.
+* Fixed full screen image close issue for Lightbox.
 
 = 2.28.8.2 =
 
-* Compatible with wordpress 3.8.1
+* Compatible Lightbox with wordpress 3.8.1
 
 = 2.28.8.1 =
 
-* Fixed navigation Issue. 
+* Fixed navigation Issue for Lightbox. 
 
 = 2.28.8 =
 
-* Compatible with wordpress 3.8 .
+* Compatible Lightbox with wordpress 3.8 .
 
 = 2.28.7 =
 
-* Compatible with wordpress 3.7.1.
+* Compatible Lightbox with wordpress 3.7.1.
 
 = 2.28.6.1 =
 
-* Fixed navigation issue (minor release).
+* Fixed navigation issue (minor release) for Lightbox.
 
 = 2.28.5 =
 
-*Compatible with wordpress 3.6.1.
+*Compatible Lightbox with wordpress 3.6.1.
 
 = 2.28.4 =
 
-*Compatible with wordpress 3.6.
+*Compatible Lightbox with wordpress 3.6.
 
 = 2.28.3 =
 
-* Fixed HTML5 Themes support issues.
+* Fixed HTML5 Themes support issues fro Lightbox.
 
 = 2.28.2 =
 
-* Compatible with wordpress HTML5 Themes.
+* Compatible Lightbox with wordpress HTML5 Themes.
 
 = 2.28.1 =
 
@@ -198,32 +198,32 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 
 = 2.27 =
 
-* Compatible with wordpress 3.5.1.
+* Compatible Lightboxwith wordpress 3.5.1.
 
 = 2.26 =
 
-* Compatible with wordpress 3.5.
+* Compatible Lightboxwith wordpress 3.5.
 
 = 2.25 =
 
-* Compatible with wordpress 3.4.2 (Fixed PHP 5 bug)
+* Compatible Lightboxwith wordpress 3.4.2 (Fixed PHP 5 bug)
 * Fixed Bug [Stopped Working with W3 Total Cache](http://onlinewebapplication.com/wp-lightbox-2/)
 
 = 2.24 =
 
-* Compatible with wordpress 3.4.2
+* Compatible Lightboxwith wordpress 3.4.2
 
 = 2.23 =
 
-* Updated jQuery calls.
+* Updated jQuery calls for Lightbox.
 
 = 2.22 =
 
-* Fixed one s, that caused a fatal error.
+* Fixed one's, that caused a fatal error.
 
 = 2.21 =
 
-* Image Map
+* Image Map fro Lightbox.
 * Shrink large images to fit smaller screens.
 
 = 2.2 =
