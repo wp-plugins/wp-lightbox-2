@@ -2,7 +2,7 @@
 Contributors: masdiblogs
 Plugin Site: http://onlinewebapplication.com/
 Donate link: http://onlinewebapplication.com/onlinewebapplication-com-donation/
-Tags: lightbox, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox
+Tags: lightbox, bing, WP Lightbox, AJAX, image, photo, picture, JQuery WP Image Plugin, colorbox
 Requires at least: 2.8
 Tested up to: 3.4.1
 Stable tag: 3.0.0
