@@ -40,7 +40,7 @@ WP Lightbox 2 have a lot of useful features. WP Lightbox 2 features:
 *   **User friendly back-end for WP Lightbox 2 plugin**
 *   **Tested on popular WordPress themes**
 
-You can upgrade WP Lightbox 2 plugin to [WP Lightbox 2 Pro](https://wordpress.org/plugins/wp-lightbox-2) to add more features.
+You can upgrade WP Lightbox 2 plugin to [WP Lightbox 2 Pro](http://wpdevart.com/wordpress-lightbox-plugin/) to add more features.
 
 ### The features of WP Lightbox 2 Pro
 
@@ -93,7 +93,7 @@ Our WP Lightbox 2 is user friendly plugin, but here you can see some frequently 
 
 = How should I enable WP Lightbox 2 =
 
-By default the option “Use Lightbox for all image links” is enabled, that's means all the images in your website will display in overlay lightbox.
+By default the option "Use Lightbox for all image links" is enabled, that's means all the images in your website will display in overlay lightbox.
  
 = How can I disable WP Lightbox 2 for certain images=
 
