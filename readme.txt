@@ -2,7 +2,7 @@
 Contributors: wpdevart
 Plugin Site: http://wpdevart.com
 Donate link: http://wpdevart.com/wordpress-youtube-embed-plugin/
-Tags: lightbox, WP Lightbox, image, photo, picture, colorbox,  photo albums, slideshow, image map, flash, gallery, JQuery slideshow, nextgen, page, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, lightbox popup, Nivo Lightbox, responsive lightbox, light box, wordpress lightbox, social lightbox, lightbox gallery, video lightbox, gallery lightbox, wordpress image lightbox, Lightbox slider, image lightbox, lightbox pop, Jquery lightbox, css3 lightbox, lightbox photo, popup lightbox, wordpress lightbox gallery, lightbox images, wordpress video lightbox, lightbox youtube, prettyphoto lightbox, overlay, lightbox for youtube, lightview, onclick popup, shadowbox, modal, popup box, slimbox, popup, pop-up, popup window, popups, popup form, wordpress popup, optin popup, full page popup, jquery popup, custom popup, popup video, aweber, Responsive Popup, on click popup, hover, simple popup, image popup, quick popup, video popup, popup over,      
+Tags: lightbox, WP Lightbox, image, photo, picture, colorbox,  photo albums, slideshow, image map, flash, gallery, JQuery slideshow, nextgen, page, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, portfolio, responsive gallery, seo image, thumbnail, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,  Galleria, gallery, Gallery Plugin, google, grid gallery, lightbox popup, Nivo Lightbox, responsive lightbox, light box, wordpress lightbox, social lightbox, lightbox gallery, video lightbox, gallery lightbox, wordpress image lightbox, Lightbox slider, image lightbox, lightbox pop, Jquery lightbox, css3 lightbox, lightbox photo, popup lightbox, wordpress lightbox gallery, lightbox images, wordpress video lightbox, lightbox youtube, prettyphoto lightbox, overlay, lightbox for youtube, lightview, onclick popup, shadowbox, modal, popup box, slimbox, popup, pop-up, popup window, popups, popup form, wordpress popup, optin popup, full page popup, jquery popup, custom popup, popup video, aweber, Responsive Popup, on click popup, hover, simple popup, image popup, quick popup, video popup, popup over, lightbox message, lightbox effect, style lightbox, photo lightbox, slideshow lightbox, wordpress lightbox image, exit lightbox, wp video lightbox, wordpress lightbox slider, wordpress responsive lightbox slideshow,      
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 3.0.1
@@ -70,7 +70,7 @@ You can upgrade WP Lightbox 2 plugin to [WP Lightbox 2 Pro](http://wpdevart.com/
 ### If you are unable to resolve your problem with the information provided in the FAQ please check support topics on WordPress.org.
 ### If you found any bug in our WP Lightbox 2 plugin or have a question contact us at support@wpdevart.com.
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player) .
 
 == Installation ==
 
@@ -117,7 +117,7 @@ Check the following reasons:
 Yes, it does. The problem is in your WordPress theme, mangling image display properties. 
 Use another theme, or change your theme Cascading Style Sheets (CSS).
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player) .
 
 == Screenshots ==
 
@@ -125,7 +125,7 @@ We also recommend you to take a look for this useful plugins - [WordPress Mainte
 2.  **WP Lightbox 2** Back-end    
 3.  **WP Lightbox 2** Back-end     
 4.  **WP Lightbox 2** Front-end     
-5.  **WP Lightbox 2** Front-end     
+5.  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2) Front-end     
 
 == Changelog ==
 
@@ -240,7 +240,7 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 
 = 2.23 =
 
-* Updated jQuery calls for Lightbox.
+* Updated jQuery calls for [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2).
 
 = 2.22 =
 
@@ -300,11 +300,11 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 *  Choose Next/Previous button image - Choose Next/Previous button for lightbox.
 *  Maximum Width - Type maximum width for lightbox images.
 *  Maximum Height - Type maximum height for lightbox images.
-*  Show/Hide close button - Choose to show or hide close button.
-*  Close button max height - Type here close button max height.
-*  Close button image title tag - Type here close button image title tag.
-*  Lightbox close button image - Choose one, or upload your own image for close button.
+*  Show/Hide close button - Choose to show or hide close buttons for [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2).
+*  Close button max height - Type here close button max height for Wp Lightbox 2.
+*  Close button image title tag - Type here close button image title tag for Wp Lightbox 2.
+*  Lightbox close button image - Choose one, or upload your own image for close button for Wp Lightbox 2.
 *  Keyboard navigation - With this feature users also can change images with keyboard.
 *  Fix position for lightbox - That's mean your lightbox shouldn't change position when users scroll up or down. 
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player) .
