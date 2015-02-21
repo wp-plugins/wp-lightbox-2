@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WP Lightbox 2
- * Plugin URI: http://yepinol.com/lightbox-2-plugin-wordpress/
+ * Plugin URI: http://wpdevart.com/wordpress-lightbox-plugin
  * Description: WP Lightbox 2 is awesome tool for adding responsive lightbox (overlay) effect for images and also create lightbox for photo albums/galleries on your WordPress blog. WordPress Lightbox is one of the most useful plugins for your website.
  * Version:       3.0.1
  * Author:        wpdevart
- * Author URI:    http://onlinewebapplication.com/
+ * Author URI:    http://wpdevart.com
  * License:       GNU General Public License, v2 (or newer)
  * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
