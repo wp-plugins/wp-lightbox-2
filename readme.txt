@@ -129,6 +129,10 @@ We also recommend you to take a look for this useful plugins - [WordPress Mainte
 
 == Changelog ==
 
+= 3.0.3 =
+
+Tags issue fixed
+
 = 3.0.0 =
 
 * Created some important changes for Lightbox.
