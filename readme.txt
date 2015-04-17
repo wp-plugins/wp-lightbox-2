@@ -30,7 +30,7 @@ WP Lightbox 2 have a lot of useful features. WP Lightbox 2 features:
 *   **WP Lightbox 2 works perfectly with all versions of WordPress**
 *   **Group related images in post and navigate through them with ease**
 *   **Ability to use lightbox in comments**
-*   **Ability to display download link for images**
+*   **Ability to display download link for images(users can download images)**
 *   **Ability to change image info position**
 *   **Ability to reduce large images to fit smaller screens**
 *   **Ability to set Animation duration**
