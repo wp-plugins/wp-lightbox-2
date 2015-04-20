@@ -95,7 +95,7 @@ Our WP Lightbox 2 is user friendly plugin, but here you can see some frequently 
 
 By default the option "Use Lightbox for all image links" is enabled, that's means all the images in your website will display in overlay lightbox.
  
-= How can I disable WP Lightbox 2 for certain images=
+= How can I disable WP Lightbox 2 for certain images =
 
 You just need to add rel="nobox" to your image link.
 Example -  <a href="image-link.html" rel="nobox"><img src="image-link.html" width="772" height="250" /></a>
