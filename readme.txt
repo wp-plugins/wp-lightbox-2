@@ -70,7 +70,7 @@ You can upgrade WP Lightbox 2 plugin to [WP Lightbox 2 Pro](http://wpdevart.com/
 ### If you are unable to resolve your problem with the information provided in the FAQ please check support topics on WordPress.org.
 ### If you found any bug in our WP Lightbox 2 plugin or have a question contact us at support@wpdevart.com.
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
 
 == Installation ==
 
@@ -85,7 +85,7 @@ For installing the **WP Lightbox 2**, please follow these steps
 	  
 That's all, now your all images will show in lightbox. If any problem occurs our WP Lightbox 2, contact us at support@wpdevart.com.
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
 
 == Frequently Asked Questions ==
 
@@ -117,7 +117,7 @@ Check the following reasons:
 Yes, it does. The problem is in your WordPress theme, mangling image display properties. 
 Use another theme, or change your theme Cascading Style Sheets (CSS).
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
 
 == Screenshots ==
 
@@ -311,4 +311,4 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 *  Keyboard navigation - With this feature users also can change images with keyboard.
 *  Fix position for lightbox - That's mean your lightbox shouldn't change position when users scroll up or down. 
 
-We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player) .
+We also recommend you to take a look for this useful plugins - [WordPress Maintenance mode](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
