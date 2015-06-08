@@ -111,6 +111,7 @@ Check the following reasons:
 - You have changed the plugin folder name to something other than wp-lightbox-2.
 - The problem is in your WordPress theme. Use another theme, that does not interfere with post/pages images.
 - You have other plugins that conflict with WP Lightbox 2. Disable your other plugins and see if that helps. If it does, re-enable each plugin, one at a time to see which one is causing the conflict.
+- Check your wp_head action hook.
 
 = Does WP Lightbox 2 work properly in all Browser(Chrome, Firefox, Explorer, etc) =
 
