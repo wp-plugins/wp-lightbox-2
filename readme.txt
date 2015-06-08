@@ -2,7 +2,7 @@
 Contributors: wpdevart
 Plugin Site: http://wpdevart.com
 Donate link: http://wpdevart.com/wordpress-lightbox-plugin
-Tags: lightbox, image, gallery, photo gallery, lightbox popup, responsive lightbox, wordpress lightbox, lightbox gallery, gallery lightbox, wordpress image lightbox, image lightbox, popup lightbox, 
+Tags: lightbox, image, gallery, photo gallery, lightbox popup, responsive lightbox, wordpress lightbox, lightbox gallery, gallery lightbox, wordpress image lightbox, image lightbox, popup lightbox, wordpress slideshow lightbox, lightbox image,
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 3.0.3
