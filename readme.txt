@@ -134,6 +134,10 @@ We also recommend you to take a look for this useful plugins - [WordPress Coming
 
 Tags issue fixed
 
+= 3.0.2 =
+
+Bug fixed 
+
 = 3.0.0 =
 
 * Created some important changes for Lightbox.
