@@ -1,5 +1,5 @@
 === WP Lightbox 2 ===
-Contributors: newowner
+Contributors: smub, griffinjt
 Plugin Site: http://wpdevart.com
 Donate link: http://wpdevart.com/wordpress-lightbox-plugin
 Tags: lightbox, image, gallery, photo gallery, lightbox popup, responsive lightbox, wordpress lightbox, lightbox gallery, gallery lightbox, wordpress image lightbox, image lightbox, popup lightbox, wordpress slideshow lightbox, lightbox image, popup images, popup image, wordpress video gallery lightbox,  google map lightbox popup, swipe, google map lightbox, popup bar, popup block, coupon popup,
