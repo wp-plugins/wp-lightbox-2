@@ -1,7 +1,7 @@
 === WP Lightbox 2 ===
 Contributors: smub, griffinjt
-Plugin Site: http://wpdevart.com
-Donate link: http://wpdevart.com/wordpress-lightbox-plugin
+Plugin Site: http://www.wpbeginner.com/
+Donate link: http://www.wpbeginner.com/
 Tags: lightbox, image, gallery, photo gallery, lightbox popup, responsive lightbox, wordpress lightbox, lightbox gallery, gallery lightbox, wordpress image lightbox, image lightbox, popup lightbox, wordpress slideshow lightbox, lightbox image, popup images, popup image, wordpress video gallery lightbox,  google map lightbox popup, swipe, google map lightbox, popup bar, popup block
 Requires at least: 3.0
 Tested up to: 4.1
@@ -83,7 +83,7 @@ Check the following reasons:
 Yes, it does. The problem is in your WordPress theme, mangling image display properties.
 Use another theme, or change your theme Cascading Style Sheets (CSS).
 
-We also recommend you to take a look for this useful plugins - [WordPress Coming Soon](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed plugin](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
+This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
 
 == Screenshots ==
 
@@ -273,4 +273,4 @@ Fixed PHP 5 comment bug that got reintroduced into plugin.
 *  Keyboard navigation - With this feature users also can change images with keyboard.
 *  Fix position for lightbox - That's mean your lightbox shouldn't change position when users scroll up or down.
 
-We also recommend you to take a look for this useful plugins - [WordPress Coming Soon](https://wordpress.org/plugins/coming-soon-page/), [WordPress Facebook like box](https://wordpress.org/plugins/like-box/),  [WordPress Poll plugin](https://wordpress.org/plugins/polls-widget), [WordPress YouTube Embed](https://wordpress.org/plugins/youtube-video-player), [WordPress Countdown plugin](https://wordpress.org/plugins/widget-countdown) .
+This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
