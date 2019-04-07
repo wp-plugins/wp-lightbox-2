@@ -5,7 +5,7 @@
  * Version:       2.28.9.2.1
  * Author:        Pankaj Jha
  * Author URI:    http://onlinewebapplication.com/
- * License:       GNU General Public License, v2 (or newer)
+ * License:       GNU General Public License, v2 (or newer) ; Some part under MIT-licence
  * License URI:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 /*  Copyright 2011 Pankaj Jha (onlinewebapplication.com)
