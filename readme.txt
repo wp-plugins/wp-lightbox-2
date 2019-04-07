@@ -6,10 +6,11 @@ Tags: lightbox, image, gallery, photo gallery, lightbox popup, responsive lightb
 Requires at least: 3.0
 Tested up to: 4.3
 Stable tag: trunk
-License: GPLv2 or later
+License: GPLv2 or later (partly MIT)
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 WP Lightbox 2 is awesome tool for adding responsive lightbox effect for images and also create lightbox for photo album/gallery on your WordPress blog. WordPress Lightbox is one of the most useful plugins for your website.
+This has a Patch for Swipe to the change Images on TouchScreens.
 
 == Description ==
 
@@ -39,8 +40,9 @@ WP Lightbox 2 have a lot of useful features. WP Lightbox 2 features:
 *   **Lightbox effect for WordPress Galleries**
 *   **User friendly back-end for WP Lightbox 2 plugin**
 *   **Tested on popular WordPress themes**
+*   **swipe to change between the images on touchscreen devices**
 
-This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
+This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>. Swipe function Patch uses libary [swipe-it (MIT licence)](https://github.com/tri613/swipe-it#readme).
 
 == Installation ==
 
@@ -83,7 +85,7 @@ Check the following reasons:
 Yes, it does. The problem is in your WordPress theme, mangling image display properties.
 Use another theme, or change your theme Cascading Style Sheets (CSS).
 
-This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
+This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="Syed Balkhi">Syed Balkhi</a> and <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of our other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>. Swipe function Patch uses libary [swipe-it (MIT licence)](https://github.com/tri613/swipe-it#readme).
 
 == Screenshots ==
 
@@ -94,6 +96,9 @@ This plugin was created by <a href="https://syedbalkhi.com" rel="friend" title="
 5.  [WordPress Lightbox](https://wordpress.org/plugins/wp-lightbox-2) Front-end
 
 == Changelog ==
+= 3.0.6 =
+* Fix: remove PHP Warning
+* Added: Swipe function for touchScreens (external libary Swipe-it)
 
 = 3.0.5 =
 * Fix: WordPress 4.3 compatibility
